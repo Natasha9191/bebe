@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gist.github.com	TRUE	/	FALSE	1999999999	_gh_sess	ZYJv5m5Dvn3CvZef4UnRShECCW2nrKdB9oz4F4kZielck760f7C%2BXC2cXPLqFfssLse60GTiwts18QnWtQRyqNPZhjW95MFDvooeF10akd9Wx2Vweqk5eh68sBdO9pj6EA5G6xiTW%2BTQZMJ6%2FmHgnX35gWdZzLgsjHlozIop%2B5GkLYSX1EAAlSc090FZI0VhTq0YignxBUiwt5VaoHl2H7vD7PMsZ5CytejQzPwVpON74dSm49L9Je6b1zuvfE9CLvhfEIxVEJrfjzRJfq4hNA%3D%3D--P42DHGA1BFYOPwi5--Tmz8V%2BUg8MWLk81JtkOEiQ%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.902499357.1708023491
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+gist.github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	73f455fa7b291aa71ae2ad507852273f
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSYvRW8zOE1yaElBVEwrOFByVXpBSmFwVUx3TTlTaUxPbGcrNnFHd240N1VXYW9rUE5XOUEzZTZvV09oWVFIRG1DSXp0VlhKMllPRloxbk5PMWFsRjVyb1VnOEdQMFpoZGJQTGRrWi9iVll3ND0mcEdZT203bkgva3ZURFI0WDFoUTRQaTZGcWdzPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	528bdfac-17ab-4a74-9dae-c56148680a8f"
+.praxent.com	TRUE	/	FALSE	1999999999	__cf_bm	iTrWUcWKgXn0JGvwe5lWlGRCHheQa0zdviTYddLwRIw-1708024505-1.0-AaUXaCS7Gje89VBQ6Y20UO6VsRcAKXu9wZkKVDsOgD1ACautC7RhuOUOGRhS6EVG3KLjXL7b+W9bLMW5X0rwniM=
+praxent.com	TRUE	/	FALSE	1999999999	SameSite	None
+
